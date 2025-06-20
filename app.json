@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "expo-audio-file-manager2",
-    "slug": "expo-audio-file-manager2",
+    "name": "expo-audio-file-manager3",
+    "slug": "expo-audio-file-manager3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "expoaudiofilemanager2",
+    "scheme": "expoaudiofilemanager3",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.dhanushreddy.expoaudiofilemanager2"
+      "package": "com.koladhanush.expoaudiofilemanager2"
     },
     "web": {
       "bundler": "metro",
@@ -42,7 +42,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "7f52a8d3-f12f-4d1f-97af-4d21554e1327"
+        "projectId": "eb98e9c3-ce3f-4d6a-b2a1-0c2e98c3ca9b"
       }
     }
   }
